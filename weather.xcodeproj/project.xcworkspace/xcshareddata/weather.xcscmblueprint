@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AD04ADB91634988CA17074D7C95AE8FF7D312BCB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AD04ADB91634988CA17074D7C95AE8FF7D312BCB" : 0,
+    "A886F3464F6E63A7BD5716C887E279B6AA498D71" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3ACAF075-648C-46D3-A7C2-2FCF31BA7605",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AD04ADB91634988CA17074D7C95AE8FF7D312BCB" : "weather\/",
+    "A886F3464F6E63A7BD5716C887E279B6AA498D71" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "weather",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "weather.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jinmh\/iostrain.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A886F3464F6E63A7BD5716C887E279B6AA498D71"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jinmh\/iostrain\/weather",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD04ADB91634988CA17074D7C95AE8FF7D312BCB"
+    }
+  ]
+}

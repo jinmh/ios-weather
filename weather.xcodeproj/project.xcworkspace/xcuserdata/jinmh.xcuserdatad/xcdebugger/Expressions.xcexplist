@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[CityViewController loadView]:CityViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[CountyViewController orientationChanged]:CountyViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[AppDelegate getScreenHeight]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__49-[ProvinceViewController queryProvinceFromServer]_block_invoke:ProvinceViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WeatherInfoController queryWeatherInfoFromServer:]:WeatherInfoController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WeatherInfoController orientationChanged]:WeatherInfoController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "orientaiton">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate application:didFinishLaunchingWithOptions:]:AppDelegate.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
